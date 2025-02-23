@@ -54,7 +54,7 @@ Skills
 
 Publications
 ======
-  {% include bibere/paper.html pid="thumbs:emnlp02" %}
+  {% include bibere/byyear.html %}
   
 Talks
 ======
