@@ -1,27 +1,30 @@
 ---
 permalink: /
-title: "Aleph"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## **Research Focus**
-I specialize in **mathematical modeling and dynamical systems**, with applications in **physiology, epidemiology, and evolutionary biology**. My research explores how **heterogeneity—spatial, temporal, or demographic—affects underlying biological and physiological processes**.  
+Welcome! This webpage provides an overview of my research, academic & professional activities, and ongoing collaborations. It serves as a hub for sharing my work in mathematical biology, particularly in applications to physiology, epidemiology, and evolutionary biology. Here, you can find details about my research themes, publications, and teaching, as well as ways to connect and collaborate.
 
-I use **differential equations, asymptotic analysis, and computational modeling** to study:  
-- **Oxygen transport in muscle tissue**  
-- **Epidemiological dynamics of multistrain diseases**  
-- **Genotype-phenotype relationships**  
-- **Mathematical interpretation of clinical datasets**  
+Research Focus
+======
+I specialize in mathematical modeling and dynamical systems, with applications in physiology, epidemiology, and evolutionary biology. My research explores how structural heterogeneity—spatial, temporal, or demographic—affects underlying biological and physiological processes.  
 
-## **Academic Appointments & Collaborations**
-- Assistant Professor, **Kuwait University**  
-- Visiting Research Fellow, **University of Leeds**  
-- Former Visiting Scholar, **University of Oxford**  
-- Research Associate, **Dasman Diabetes Institute**  
-- Collaborator with **biomedical scientists and public health researchers**  
+This work touches on differential equations, asymptotic analysis, and computational modeling with applications in:  
+- Oxygen transport in muscle tissue  
+- Epidemiological dynamics  
+- Genotype-phenotype relationships  
+- Mathematical interpretability of clinical datasets  
 
-## **Interdisciplinary Work & Methods**
-My work incorporates **finite element methods**, **conformal mapping (Henrici’s method)**, and **nonlinear dynamical systems** to investigate how **biological structures influence function**. This interdisciplinary approach connects **theoretical mathematics with real-world biomedical challenges**.  
+Academic & Research Appointments
+======
+- Assistant Professor, Kuwait University, Kuwait
+- Research Associate, Dasman Diabetes Institute, Kuwait
+- (Former) Visiting Research Fellow, University of Leeds, Leeds, UK
+- (Former) Visiting Scholar, University of Oxford, Oxford, UK  
+
+## Interdisciplinary Work & Methods
+My work incorporates finite element methods, conformal mapping (Henrici’s method), and nonlinear dynamical systems to investigate how biological structures influence function. This interdisciplinary approach connects theoretical mathematics with real-world biomedical challenges.  
