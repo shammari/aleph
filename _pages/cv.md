@@ -11,26 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* D.Phil in Mathematical Biology, Mathematical Institute, University of Oxford, 2014
+* M.S. in Mathematics, Courant Institute of Mathematical Sciences, New York University, 2009
+* B.S.Mth Mathematics (Medical Track), Creighton University, 2005
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2019: Research Associate (Seconded)
+  * Department of Genetics & Bioinformatics, Dasman Diabetes Institute
+  * Duties includes: Data-driven biological modeling
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2019: Visiting Research Fellow
+  * Faculty of Biomedical Sciences, University of Leeds
+  * Duties includes: Development and deployment of OTM
+  * Host: Prof. Stuart Egginton
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018: Visiting Scholar
+  * Mathematical Institute, University of Oxford
+  * Host: Prof. E. A. Gaffney
+
+* Summer 2017: Subject Matter Expert
+  * KFAS Academy 
+  * Duties includes: Development mathematics e-courses & e-learning
+
+* Fall 2014: Assistant Professor
+  * Department of Mathematics, Kuwait University
+
+* Summer 2007: Teaching Assistant
+  * Department of Mathematics, Kuwait University
+
+* Summer 2005: Teaching Assistant
+  * Department of Mathematics & Natural Sciences, Gulf University for Science & Technology
   
 Skills
 ======
