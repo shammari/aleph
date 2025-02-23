@@ -1,10 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: ../images/header1.png
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
 Welcome! This webpage provides an overview of my research, academic & professional activities, and ongoing collaborations. It serves as a hub for sharing my work and activities in mathematical biology. Here, you can find details about my research themes, publications, and teaching, as well as ways to connect and collaborate.
