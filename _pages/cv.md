@@ -54,7 +54,9 @@ Skills
 
 Publications
 ======
-  {% include bibere/byyear.html %}
+<div markdown="0">
+{% include bibere/byyear.html %}
+</div>
   
 Talks
 ======
